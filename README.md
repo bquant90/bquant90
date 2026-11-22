@@ -36,4 +36,4 @@ I rebuilt a 2022 Theory of Automata class project, a command-line Python program
 
 ### Get in touch
 
-[LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/bryan-quant/))
+[LinkedIn](https://www.linkedin.com/in/bryan-quant/)
